@@ -1,3 +1,4 @@
+#Ce programme crée une horloge modifiable sur l'écran de la machine qu'on utilise. This program creates a clock which displays on your desktop
 import sys
 from tkinter import *
 import time
